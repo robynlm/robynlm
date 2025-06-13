@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Robyn 🌼
+# 👋 Hi, I'm Robyn 🌸
 
 I'm a **Cosmologist** using **Numerical Relativity**. My main repos are:
 
