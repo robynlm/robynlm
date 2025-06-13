@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Robyn L. Munoz 🌼
 
-<!--
-**robynlm/robynlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cosmologist** using **Numerical Relativity**. My main repos are:
 
-Here are some ideas to get you started:
+#### ✨ [`aurel`](https://robynlm.github.io/aurel/) ✨
+This is a Python package to do relativistic calculations. Designed with ease of use in mind, it will automatically calculate any relativistic term your heart desires.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Einstein Toolkit thorns for Cosmology
+Thorns designed to set cosmological initial conditions [ICPertFLRW](https://github.com/robynlm/ICPertFLRW) & [ICPertFLRW_GRH](https://github.com/robynlm/ICPertFLRW_GRH), use cosmological gauges [CosmoLapse](https://github.com/robynlm/CosmoThorn), and use cosmological triggers for adaptive mesh refinement [AddRefinements](https://github.com/robynlm/AddRefinements).
+
+## 📈 GitHub Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robynlm&layout=compact&theme=tokyonight)
