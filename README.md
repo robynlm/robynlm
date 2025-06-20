@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Robyn 🌸
+# 👋 Hi, I'm Robyn 
 
 I'm a **Cosmologist** using **Numerical Relativity**. My main repos are:
 
-#### ✨ [`aurel`](https://robynlm.github.io/aurel/) ✨
+#### ✨ [`aurel`](https://robynlm.github.io/aurel/) 
 This is a Python package to do relativistic calculations. Designed with ease of use in mind, it will automatically calculate any relativistic term your heart desires.
 
 #### 🛠️ Einstein Toolkit thorns for Cosmology
